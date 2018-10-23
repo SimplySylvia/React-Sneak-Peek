@@ -1,4 +1,4 @@
-# React Sneak Peek
+# React Sneak Peak
 
 React has 4 main features.
 
