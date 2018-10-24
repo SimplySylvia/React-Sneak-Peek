@@ -42,6 +42,18 @@ React was born out of Facebook's frustration with the traditional MVC model and 
   * Re-rendering something meant re-rendering everything (or just a lot).
   * That had negative implications on processing power and ultimately user experience, which at times became glitchy and laggy.
 
+BEHOLD! The OLD FACEBOOK! 
+
+*2008*
+
+<img src='https://lh3.googleusercontent.com/d4ypmybEZT8SAOj1efmy9CCkKwNG3Dd-Mv0__FoIsWgK0iWuYWBS4NPHOf71ANpKcx2ElOndGeiDInxm8p-sOMqNXBkPy3y-HsH45lGscqJepxFOYkU1_6BbAw' alt='old facebook' width='400px'>
+
+*2010*
+
+<img src='https://lh4.googleusercontent.com/lNCcVZlrC08vdkMrMZ8XCGjD5a3w8yUybFm2YN7VJJzOttmEl99lR_bXcW21hw7AVtKDRvQajA4AsqJHVHqzhHnkNsVmMRXMvi9uuoV3iIU5gIJjSSkUee8fpg' alt='old facebook' width='400px'>
+
+<hr>
+
 ### React in MVC
 
 React can be thought of as the "Views" layer.
