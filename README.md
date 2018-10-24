@@ -15,6 +15,14 @@
 - Have an understanding of the MVC framework.
 - Can use cmd line to initialize and compile projects.
 
+<hr>
+
+### What is ReactJS?
+
+React is a JavaScript Framework used to craft modern day UI and views for the front-end in web applications.
+
+> **Selling Point:** By modeling small compatible components that focus on just rendering a view, we can move business logic out of the DOM, and therefore improve our app's performance, maintainability, modularity and readability.
+
 ### What is a Frontend Framework? 
 
 - A framework is software providing generic functionality and structure that serves as foundation to build and deploy applications.
@@ -25,13 +33,7 @@
 
 <hr>
 
-### What is ReactJS?
-
-React is a JavaScript library used to craft modern day UI and views for the front-end in web applications.
-
-> **Selling Point:** By modeling small compatible components that focus on just rendering a view, we can move business logic out of the DOM, and therefore improve our app's performance, maintainability, modularity and readability.
-
-#### Some History
+### Some History
 
 The first thing most people hear about React is "Facebook uses it."
 * First used by Facebook in 2011.
@@ -42,7 +44,7 @@ React was born out of Facebook's frustration with the traditional MVC model and 
   * Re-rendering something meant re-rendering everything (or just a lot).
   * That had negative implications on processing power and ultimately user experience, which at times became glitchy and laggy.
 
-BEHOLD! The OLD FACEBOOK! 
+**BEHOLD! The OLD FACEBOOK!** 
 
 *2008*
 
