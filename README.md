@@ -1,4 +1,5 @@
-# React Sneak Peak
+
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> **React** *Sneak Peak*
 
 ### What is a Frontend Framework? 
 
@@ -7,6 +8,8 @@
 - Frameworks can help standardize code, give you additional functionality and performance, and can help get your code off the ground faster.  
 - There are [many](https://stateofjs.com/2017/front-end/) front end frameworks and each go about solving problems of how state is managed, updated, and represented by a view but there are many commonalities.
 - There is a lot of debate over whether frontend frameworks count as frameworks at all -- some people say that they are just libraries and should be referred to as such.
+
+<hr>
 
 ### What is ReactJS?
 
@@ -36,7 +39,9 @@ React will work with any back-end language, but for project 3 and in our in-clas
   The visual template the user sees, often populated with data from our models.
 </details>
 
-### React has 4 main features.
+<hr>
+
+### React has 4 main features that make it so powerful and popular.
 
 - Components
 - JSX
@@ -79,3 +84,11 @@ class App extends React.Component {
 ```
 
 [JSX & React Documentation](https://reactjs.org/docs/introducing-jsx.html)
+
+## State and Props
+
+State is referred to the local state of the component which cannot be accessed and modified outside of the component and only can be used & modified inside the component. Props, on the other hand,make components reusable by giving components the ability to receive data from the parent component in the form of props.
+
+<hr>
+
+## *Now let's Dive into the example code to see the difference between a static site and a React site.*
