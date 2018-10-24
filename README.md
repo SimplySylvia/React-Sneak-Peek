@@ -107,8 +107,10 @@ State is referred to the local state of the component which cannot be accessed a
 
 ## *Now let's Dive into the example code to see the difference between a static site and a React site.*
 
-Based on the static site we can create the components as follows: 
 
+<details>
+  <summary><strong>Let's Break down Monument!</strong></summary>
+ 
 **Component breakdown for `index.html`:**
 
     - Header
@@ -136,3 +138,6 @@ Based on the static site we can create the components as follows:
       - Issues
       - Comment
     - Footer
+
+</details>
+
