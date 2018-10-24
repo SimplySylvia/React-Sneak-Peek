@@ -1,6 +1,20 @@
 
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> **React** *Sneak Peak*
 
+### LEARNING OBJECTIVES
+*After this lesson, you will be able to:*
+
+- Have a clear understanding of the basics of React.
+- Will be able to break a site down into components. 
+
+
+### STUDENT PRE-WORK
+*Before this lesson, you should already be able to:*
+
+- Have a basic understanding of HTML, CSS, and Javascript.
+- Have an understanding of the MVC framework.
+- Can use cmd line to initialize and compile projects.
+
 ### What is a Frontend Framework? 
 
 - A framework is software providing generic functionality and structure that serves as foundation to build and deploy applications.
@@ -92,3 +106,33 @@ State is referred to the local state of the component which cannot be accessed a
 <hr>
 
 ## *Now let's Dive into the example code to see the difference between a static site and a React site.*
+
+Based on the static site we can create the components as follows: 
+
+**Component breakdown for `index.html`:**
+
+    - Header
+      - Nav
+    - Main
+      - ArticlesList
+        - Article
+        - Article
+        - Article
+      - About
+      - VisualGuide
+      - Contact
+    - Footer
+
+**Component breakdown for `blog.html`:**
+   
+    - Header
+      - Nav
+    - Main
+      - PostsList
+        - Post
+        - Post
+        - Post
+      - About
+      - Issues
+      - Comment
+    - Footer
