@@ -76,7 +76,7 @@ JSX (JavaScript eXtension) is an extension to the JavaScript language syntax. Si
 ```html
 <div>
   <p>Header</p>
-  <p>Content</p>
+  <img src="images/blog_1.jpg" alt="">
   <p>Footer</p>
 </div>
 ```
@@ -88,7 +88,7 @@ class App extends React.Component {
     return (
       <div>
         <p>Header</p>
-        <p>Content</p>
+        <img src={Blog1} alt="" />
         <p>Footer</p>
       </div>
     );
