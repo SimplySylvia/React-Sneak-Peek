@@ -5,7 +5,7 @@
 *After this lesson, you will be able to:*
 
 - Have a clear understanding of the basics of React.
-- Will be able to break a site down into components. 
+- Will be able to break a site down into components and understand seperation of concerns via the component methodology. 
 
 
 ### STUDENT PRE-WORK
