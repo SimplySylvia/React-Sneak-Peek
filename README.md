@@ -154,20 +154,6 @@ Because the same input will always produce the same output, components are easil
 
   Partner with your neighbor and circle the different components you see on the provided monument page.
   </summary>
- 
-**Component breakdown for `index.html`:**
-
-    - Header
-      - Nav
-    - Main
-      - ArticlesList
-        - Article
-        - Article
-        - Article
-      - About
-      - VisualGuide
-      - Contact
-    - Footer
 
 **Component breakdown for `blog.html`:**
    
