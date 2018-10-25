@@ -71,8 +71,8 @@ React will work with any back-end language, but for our in-class examples we wil
 
 ### React has 4 main features that make it so powerful and popular.
 
-- Components
 - JSX
+- Components
 - State
 - Props
 
@@ -148,17 +148,12 @@ Because the same input will always produce the same output, components are easil
 
 > If you're interested, [Jest](https://facebook.github.io/jest/docs/tutorial-react.html) is a popular testing library for React.
 
-## State and Props
-
-State is referred to the local state of the component which cannot be accessed and modified outside of the component and only can be used & modified inside the component. Props, on the other hand,make components reusable by giving components the ability to receive data from the parent component in the form of props.
-
-<hr>
-
-## *Now let's Dive into the example code to see the difference between a static site and a React site.*
-
-
 <details>
-  <summary><strong>Let's Break down Monument!</strong></summary>
+  <summary>
+  <strong>Let's Break down Monument! (Activity)</strong>
+
+  Partner with your neighbor and circle the different components you see on the provided monument page.
+  </summary>
  
 **Component breakdown for `index.html`:**
 
@@ -189,4 +184,16 @@ State is referred to the local state of the component which cannot be accessed a
     - Footer
 
 </details>
+
+<hr>
+
+## State and Props
+
+State is referred to the local state of the component which cannot be accessed and modified outside of the component and only can be used & modified inside the component. Props, on the other hand,make components reusable by giving components the ability to receive data from the parent component in the form of props.
+
+<hr>
+
+## *Now let's Dive into the example code to see the difference between a static site and a React site.*
+
+
 
