@@ -1,5 +1,5 @@
 
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> **React** *Sneak Peak*
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> **React** *Sneak Peek*
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -76,11 +76,6 @@ React will work with any back-end language, but for our in-class examples we wil
 - State
 - Props
 
-
-## Components
-
-One comment made about React when it was first open sourced was "Rethinking established best practices" which kind of became the React motto.  In React, we want to move away from template pages, away from separating code based purely on file type, and more towards a **component-based** separation of concerns.  [Templates vs Components](https://wanderoak.co/fixed-templates-vs-components/)
-
 ## JSX
 
 JSX (JavaScript eXtension) is an extension to the JavaScript language syntax. Similar in appearance to HTML, JSX provides a way to structure component rendering using syntax familiar to many developers. React components are typically written using JSX, although they do not have to be (components may also be written in pure JavaScript). JSX is similar to another extension syntax created by Facebook for PHP, XHP.
@@ -112,6 +107,46 @@ class App extends React.Component {
 ```
 
 [JSX & React Documentation](https://reactjs.org/docs/introducing-jsx.html)
+
+## Components
+
+One comment made about React when it was first open sourced was "Rethinking established best practices" which kind of became the React motto.  In React, we want to move away from template pages, away from separating code based purely on file type, and more towards a **component-based** separation of concerns.  [Templates vs Components](https://wanderoak.co/fixed-templates-vs-components/)
+
+When taking a look at Facebook, you could think of each status post as a mini-component in React. And a list of those updates, is a component that contains several of those mini-components. You could take that one step further and think of the Facebook app, as one giant component with several components within it. (Things like the list of status updates, the friends list, the header, etc...)
+
+Imagine you worked at Facebook when they wanted to shift from using likes to reactions. Using traditional JavaScript, HTML, and CSS the shift would make you have to change your code in a bunch of places. Component based architecture allows us to maintain our code more easily.
+
+### [F.I.R.S.T. Components](https://addyosmani.com/first/)
+
+A React component is built to expect an input and render a UI with it. More importantly, a well-structured component only receives data specific to its purpose.
+
+This is because React follows a more **functional** approach to programming. For React components under this approach, **the same input will always produce the same output**.
+
+Best practice is that React components follow the **F.I.R.S.T.** guidelines
+
+#### Focused
+
+Components should do one thing and do it well.
+
+#### Independent
+
+Components should increase cohesion and reduce coupling. Behavior in one component should not impact the behavior of another. In other words, components should not rely on one another.
+
+> But they should compliment one another.
+
+#### Reusable
+
+Components should be written in a way that reduces the duplication of code.
+
+#### Small
+
+Ideally, components should be short and condensed.
+
+#### Testable
+
+Because the same input will always produce the same output, components are easily unit testable.
+
+> If you're interested, [Jest](https://facebook.github.io/jest/docs/tutorial-react.html) is a popular testing library for React.
 
 ## State and Props
 
