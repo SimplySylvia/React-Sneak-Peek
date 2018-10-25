@@ -189,7 +189,9 @@ Because the same input will always produce the same output, components are easil
 
 ## State and Props
 
-State is referred to the local state of the component which cannot be accessed and modified outside of the component and only can be used & modified inside the component. Props, on the other hand,make components reusable by giving components the ability to receive data from the parent component in the form of props.
+State is referred to the **local state of the component** which cannot be accessed and modified outside of the component and only can be used & modified inside the component. 
+
+Props, on the other hand,make components reusable by giving components the ability to **receive data from the parent component** in the form of props.
 
 <hr>
 
