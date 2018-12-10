@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "monument-react-refactor/package.json"
+      ]
+    }
+  }
+}
