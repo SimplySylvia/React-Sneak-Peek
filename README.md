@@ -1,6 +1,8 @@
 
 # **React** *Sneak Peek*
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DaltonHart/React-Sneak-Peek.svg)](https://greenkeeper.io/)
+
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 
