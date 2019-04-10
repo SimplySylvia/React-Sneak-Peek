@@ -1,0 +1,8 @@
+.app {
+	height: 94vh;
+	overflow: hidden;
+}
+
+.container {
+	display: flex;
+}

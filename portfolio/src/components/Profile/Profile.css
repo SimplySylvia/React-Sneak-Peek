@@ -1,0 +1,9 @@
+.profile {
+	width: max-content;
+	margin: 2em !important;
+	height: 90%;
+}
+.saveButtons {
+	margin: 1em auto;
+	width: max-content;
+}

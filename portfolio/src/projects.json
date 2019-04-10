@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Project 1",
+		"url": "https://github.com/DaltonHart/React-Sneak-Peek",
+		"img": "https://fbnewsroomus.files.wordpress.com/2018/04/off-fb-0012.jpeg?w=960",
+		"description": "Here is a description of a cool project I made."
+	},
+	{
+		"title": "Project 2",
+		"url": "https://github.com/DaltonHart/React-Sneak-Peek",
+		"img": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e44611c1-27a5-4508-af6a-40d914a47de1/03-ultimate-guide-to-wireframing-and-prototyping.png",
+		"description": "Isn't cool how the data is different per one?"
+	},
+	{
+		"title": "Project 3",
+		"url": "https://github.com/DaltonHart/React-Sneak-Peek",
+		"img": "https://www.sketchappsources.com/resources/source-image/mini-wireframes-lukadadiani.jpg",
+		"description": "The power of REACT!"
+	}
+]

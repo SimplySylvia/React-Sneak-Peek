@@ -1,0 +1,20 @@
+.projectContainer {
+	display: flex;
+	width: 70%;
+	height: 85vh;
+	overflow: hidden;
+	margin: 1em !important;
+}
+.projects {
+	overflow: scroll;
+	margin: 0 !important;
+	overflow-x: hidden;
+	padding: 2em;
+	width: 100%;
+}
+.projects::-webkit-scrollbar {
+	width: 0 !important;
+}
+.project {
+	width: 100% !important;
+}
